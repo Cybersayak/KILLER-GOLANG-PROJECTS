@@ -1,9 +1,10 @@
 # 60_GOLANG_PROJECTS
-Series to learn &amp; become a Master in  Golang Development 
+
+### Buinding a Series of Projects to learn &amp; get friendly in Golang Development 
 
 
-[PROJECT Zero](https://github.com/Cybersayak/GO-TODO-APP)
+1.[PROJECT Zero](https://github.com/Cybersayak/GO-TODO-APP)
 
-[PROJECT One](https://github.com/Cybersayak/WebServer1stApp)
+2.[PROJECT One](https://github.com/Cybersayak/WebServer1stApp)
 
-[PROJECT Two](https://github.com/Cybersayak/MovieCRUD2ndApp)
+3.[PROJECT Two](https://github.com/Cybersayak/MovieCRUD2ndApp)
