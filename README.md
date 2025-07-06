@@ -1,6 +1,6 @@
-# 60_GOLANG_PROJECTS
+# KILLER GOLANG PROJECTS
 
-### Buinding a Series of Projects to learn &amp; get friendly in Golang Development 
+### Buinding a Series of Projects to learn &amp; get friendly in Golang Development by AKHIL SHARMA  
 
 
 1.[PROJECT Zero](https://github.com/Cybersayak/GO-TODO-APP)
